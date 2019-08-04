@@ -12,7 +12,7 @@ This Playground is based on different JS Sandbox technique an it useful to impro
         ```
         Following vulnerability was fixed as described on [static-eval PR-18](https://github.com/browserify/static-eval/pull/18)
 - Reference
-    -   [maustin.net - Unsafe Code Execution in static-eval(]https://maustin.net/articles/2017-10/static_eval?source=post_page---------------------------)
+    -   [maustin.net - Unsafe Code Execution in static-eval](https://maustin.net/articles/2017-10/static_eval?source=post_page---------------------------)
 
 ### Build
 ```
