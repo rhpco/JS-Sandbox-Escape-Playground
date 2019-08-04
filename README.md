@@ -1,6 +1,6 @@
 # JS Sandbox Escape - Playground
 
-This Playground is based on different JS Sandbox technique an it useful to improve Sandbox escaping technique
+This Playground is based on different JS Sandbox technique and it is useful to improve Sandbox escaping technique in JS context.
 
 
 ## static-eval 
@@ -16,6 +16,7 @@ This Playground is based on different JS Sandbox technique an it useful to impro
 
 ### Build
 ```
+cd static-eval/
 npm install
 ```
 
